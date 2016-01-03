@@ -4,3 +4,4 @@
 翻译似乎是一个不错的方法，于是就有了这么一个项目。
 错别字，手滑的错误很多，简书上的朋友也在不断用修改建议的方式提醒我。
 慢慢地，一点点地修改，也许在github上更加方便一些，我这么想。
+英文原版的文档附上：Common_Lisp_A_Gentle_Introduction_to_Symbolic_Computation.pdf
