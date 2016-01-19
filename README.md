@@ -1,4 +1,6 @@
-# Common_Lisp-A-Gentle_Introduction_to_Symbols_Computation-Translation-
+# Common_Lisp-A-Gentle_Introduction_to_Symbols_Computation-Translation
+
+项目中的所有文字都包含了Markdown的语法标记，为了获得最佳的阅读体验，请使用支持markdown的编辑器进行阅读。
 一年之前，当时对common lisp非常感兴趣，开始找一些入门的书籍来看。
 中文的lisp入门书籍很少，英文的看起来需要长时间的集中注意力。
 翻译似乎是一个不错的方法，于是就有了这么一个项目。
