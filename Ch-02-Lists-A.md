@@ -1,4 +1,5 @@
 # 第二章 列表（LISTS）
+
 ### 2.1 列表是最丰富多彩的数据类型
 Lisp这个名称是list Processor的缩写。虽然Lisp已经发展成熟很多年，但是列表依然是核心数据类型。列表的重要在于，他几乎可以表现为任何形式：集合，表格，图表，甚至英语句子。列表也可以用来表现函数，但是这个话题我们留到后续章节介绍。
 ### 2.2 列表看上去是什么样子的？
@@ -68,7 +69,7 @@ A B )(C D)
 (((A) (B)) (C))
 
 2.3 画出列表(PLEASE (BE MY) VALENTINE)的盒装图。
- 
+
 2.4 下列内存结构的括号表达式是什么？
 
 ![](http://ww1.sinaimg.cn/mw690/8d6a2535jw1ekwprp1wvtj20gi057mxb.jpg)
@@ -215,11 +216,3 @@ CDADDR|
 2.17 完成下列计算过程
 ![](http://ww4.sinaimg.cn/mw690/8d6a2535jw1ekz807ceuoj20cr0ffaab.jpg)
 ![](http://ww2.sinaimg.cn/mw690/8d6a2535jw1ekz810toipj20dq0fg3yp.jpg)
-
-
-
-
-
-
-
-
