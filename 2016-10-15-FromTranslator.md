@@ -1,3 +1,17 @@
+---
+layout: post
+title: "学习Lisp-来自译者的吐槽"
+categories: Lisp
+excerpt:
+tags: Lisp CommonLisp 翻译
+---
+
+* content
+{:toc}
+
+一些吐槽
+
+
 
 ### 译者的留言
 

@@ -1,3 +1,18 @@
+---
+layout: post
+title: "学习Lisp-前言小贴士"
+categories: Lisp
+excerpt:
+tags: Lisp CommonLisp 翻译
+---
+
+* content
+{:toc}
+
+《Common Lisp 符号计算简单介绍》前言-给读者的小贴士
+
+
+
 ## 给教师的贴士
 
 近几年，如何跟有效地向初学者介绍Lisp的经验开始慢慢被总结出来：比如哪里是难点，以及我们怎么应对。另外，有一些切换到Lisp的既定主题是必须使学生领会的，特别是变量，作用域和赋值。此处的“简单介绍”的意思已经为Common Lisp完全改变，包括了一些十分有价值的教学工具。让我介绍一些本书的Lisp标记法。

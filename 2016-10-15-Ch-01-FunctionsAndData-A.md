@@ -1,11 +1,20 @@
+---
+layout: post
+title: "学习Lisp-第一章-函数和数据-A"
+categories: Lisp
+excerpt:
+tags: Lisp CommonLisp 翻译
+---
+
+* content
+{:toc}
+
+《Common Lisp 符号计算简单介绍》第一章 函数和数据 上半部分
 
 
 
 
-
-
-
-## 第一章 函数和数据
+## 第一章 函数和数据 上
 
 ### 1.1 导引
 
